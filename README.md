@@ -1,4 +1,4 @@
-# Apuntes de la Carrera
+# Apuntes de la Carrera 📚
 
 Este repositorio es mi centro de estudios personal para la carrera de Ingeniería. Aquí iré almacenando y organizando todos mis apuntes, ejercicios resueltos, proyectos y recursos relevantes de cada materia. ¡La idea es tener todo centralizado y accesible!
 
