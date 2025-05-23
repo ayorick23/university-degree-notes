@@ -12,7 +12,7 @@ Este repositorio es mi centro de estudios personal para la carrera de Ingenierí
 ## 📂 Estructura del Repositorio
 
 El repositorio está organizado por ciclos o años académicos, y dentro de cada uno, por materias. Así es más fácil encontrar lo que buscas.
-
+```bash
 .
 ├── Año I / Ciclo I
 │   ├── Materia A
@@ -30,7 +30,7 @@ El repositorio está organizado por ciclos o años académicos, y dentro de cada
 │       ├── Clase 1/
 │       └── .../
 └── ...
-
+```
 ## 📝 ¿Cómo Usarlo?
 
 Si eres tú quien consulta sus propios apuntes, simplemente navega por las carpetas según la materia o el ciclo que necesites repasar.
